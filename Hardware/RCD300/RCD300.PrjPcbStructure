@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=RCD300_P0.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=RCD300_P0.SchDoc|Designator=AmplifierStage|SchDesignator=AmplifierStage|FileName=RCD300_AMPLIFIER_P1.SchDoc|SymbolType=Normal|RawFileName=RCD300_AMPLIFIER_P1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=RCD300_P0.SchDoc|Designator=AudioUSB|SchDesignator=AudioUSB|FileName=RCD300_USB_DAC_P2.SchDoc|SymbolType=Normal|RawFileName=RCD300_USB_DAC_P2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

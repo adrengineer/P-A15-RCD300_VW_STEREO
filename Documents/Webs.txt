@@ -1,0 +1,21 @@
+**********************************************************
+************ USB DAC - Audio Transfer over USB- **********
+**********************************************************
+
+https://github.com/Wayne-Weng/PCM2706-USB-DAC
+https://github.com/RepRapThailand/MiniDAC
+https://github.com/Relhely/PCM2706_DAC_LAYOUT_practice
+https://github.com/DewerZHT/PCB-PCM2706-USB-Audio-Decoder
+
+**********************************************************
+************** AUDIO AMPLIFIER STAGE *********************
+**********************************************************
+
+https://github.com/iamBVC/64W_Class_AB_Amplifier
+https://github.com/nathanpc/mini12
+https://github.com/mostlydiyrf/OA741D
+https://www.tindie.com/products/mostlydiyrf/oa741d-op-amp-bare-pcb/
+https://www.tindie.com/products/icstation/diy-hybrid-power-amplifier-board-lm1875t12008-2/
+https://www.edn.com/class-ab-20-w-current-booster-is-insensitive-to-temperature-variations/
+https://www.edn.com/class-ab-current-booster-provides-high-output-voltage-swing/
+https://www.sound-au.com/project76.htm
